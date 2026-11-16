@@ -10,7 +10,7 @@ o	num_rooms
 o	age 
 o	distance_to_city(km) 
 •	The target variable is: 
-o	price 
+o	price  
 ## DATASET DESCRIPTION
 •	Dataset: House Price Dataset 
 •	Problem: Predict house price. 
